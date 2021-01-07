@@ -1,0 +1,85 @@
+.firstdv h2{
+    text-align: center;
+    color: white;
+    padding-top: 10px;
+}
+
+.thirddv {
+    text-align: center;
+}
+
+.notedv{
+    margin-top: 15px;
+    text-align: center;
+}
+
+li a{
+    color: whitesmoke;
+}
+
+.menu{
+    margin-top: 20px;
+}
+.menu img{
+    width: 200px;
+    height: 120px;
+}
+
+.menu h4{
+    text-align: center;
+    padding-bottom: 14px;
+}
+
+.col p{
+    text-size-adjust: 15px;
+}
+
+.cpright p{
+    text-align: center;
+    padding-bottom: 15px;
+}
+
+.cpright{
+    padding-top: 30px;
+
+}
+
+.fornav{
+    background-color: rgba(126, 47, 10, 0.918);
+}
+
+.fornavtwo{
+    background-color: rgba(212, 124, 22, 0.767);
+    padding-bottom: 15px;
+}
+
+.container{
+    text-align: center;
+}
+
+.aboutus{
+    padding: 20px 0px 20px 5px;
+    background-color: rgba(212, 124, 22, 0.767);
+}
+
+.aboutus p{
+    padding-left: 10px;
+}
+
+
+.delivery{
+    text-align: center;
+    background-color: rgba(212, 124, 22, 0.767);
+    padding-bottom: 15px;
+}
+
+.delivery img{
+    width: 400px;
+    height: auto;
+    padding-bottom: 25px;
+}
+
+.order p{
+    text-align: center;
+}
+
